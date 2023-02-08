@@ -15,7 +15,9 @@ prompts should be seperated by line breaks, the script should:
   2. generate the requested number of replys
   3. download output as `{char}_{prompt}.txt`
   4. repeate until there are no more prompts in the list
-  
+
+separate filtered and unfiltered responses into separate download files.  
+
 ## credits
   * [autoscroll script](https://greasyfork.org/en/scripts/458400-reload-autoscroll-buttons-at-character-ai)  
   * [hear your waifu](https://greasyfork.org/en/scripts/456393-hearyourwaifu-hyw)  

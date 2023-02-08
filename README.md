@@ -7,9 +7,10 @@ a userscript for constructing text datasets using character.ai
 
 ## goals
 currently the script only has a download button, i'd like to add a simple ui that can:  
-  1. specify the number of replys to generate
-  2. load a list of prompts from a text file
-  
+  1. load a list of prompts from a text file
+  2. specify the number of replys to generate
+  3. specify how often to refresh the page
+
 prompts should be seperated by line breaks, the script should:
   1. send the prompt as a message to the character
   2. generate the requested number of replys

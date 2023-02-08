@@ -3,12 +3,18 @@
   <img src="https://img.shields.io/badge/license-%2Bnigger-brightgreen"
     alt="license"></a>
 
-a userscript for constructing datasets from character replies.
+a userscript for constructing datasets text datasets using character.ai
 
-## to do
-  * prompt list input from text file
-  * specify the number of replys to generate
-  * download output as `{char}_{prompt}_{date}.txt`
+## goals
+currently the script only has a download button, i'd like to add a simple ui that can:  
+  1. specify the number of replys to generate
+  2. load a list of prompts from a text file
+  
+prompts should be seperated by line breaks, the script should:
+  1. send the prompt as a message to the character
+  2. generate the requested number of replys
+  3. download output as `{char}_{prompt}.txt`
+  4. repeate until there are no more prompts in the list
   
 ## credits
   * [autoscroll script](https://greasyfork.org/en/scripts/458400-reload-autoscroll-buttons-at-character-ai)  

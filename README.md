@@ -16,4 +16,4 @@ a userscript for constructing datasets from character replies.
   * [cai-decode](https://perberos.me/roleplai/tools/cai-decode.html)
   
 ### notice
-idk what i'm doing so much of the was written by [chatgpt](https://chat.openai.com).  
+idk what i'm doing so much of the code was written by [chatgpt](https://chat.openai.com).  

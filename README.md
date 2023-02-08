@@ -13,11 +13,9 @@ currently the script only has a download button, i'd like to add a simple ui tha
 prompts should be seperated by line breaks, the script should:
   1. send the prompt as a message to the character
   2. generate the requested number of replys
-  3. download output as `{char}_{prompt}.txt`
+  3. download outputs as `{char}_{prompt}.txt` and  `{char}_{prompt}_filtered.txt`
   4. repeate until there are no more prompts in the list
-
-separate filtered and unfiltered responses into separate download files.  
-
+  
 ## credits
   * [autoscroll script](https://greasyfork.org/en/scripts/458400-reload-autoscroll-buttons-at-character-ai)  
   * [hear your waifu](https://greasyfork.org/en/scripts/456393-hearyourwaifu-hyw)  

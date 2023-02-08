@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/license-%2Bnigger-brightgreen"
     alt="license"></a>
 
-a userscript for constructing datasets text datasets using character.ai
+a userscript for constructing text datasets using character.ai
 
 ## goals
 currently the script only has a download button, i'd like to add a simple ui that can:  
